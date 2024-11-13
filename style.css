@@ -1,0 +1,75 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+/* navbar section starts */
+nav{
+	margin-left: 13%;
+	margin-right: 15%;
+}
+
+nav img{
+	padding-right: 20%;
+}
+
+nav .d-flex button{
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	border: none;
+	border-radius: 16px;
+	padding: 5px 10px;
+}
+
+nav ul{
+	font-weight: bold;
+}
+
+
+
+/* first section starts */
+.background{
+	background: url(images/background.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* second section starts */
+.card{
+	box-shadow: 0 2px 8px 0 rgba(189, 182, 182, 0.19), 0 2px 20px 0 rgba(189, 182, 182, 0.19);
+}
+
+/* third section starts */
+.background2{
+	background: url(images/background2.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* fifth section starts */
+
+.background3{
+	background: url(images/background3.jpg);
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/* footer section starts */
+.background4{
+	background: url(images/background4.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+	margin-top: -1.5px;
+	margin-left: -0.9px;
+}
+
+/* last section starts */
+.background5{
+	background: url(images/background5.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+	margin-top: -2px;
+	margin-left: -0.9px;
+}
